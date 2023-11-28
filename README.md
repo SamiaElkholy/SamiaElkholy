@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm SamiaElkholy </h1>
-<h3 align="center">A passionate Backend Developer from Egypt</h3>
+
 
 
 - 🌱 I’m currently learning **Backend Development & Software Development**
