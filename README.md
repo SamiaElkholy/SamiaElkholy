@@ -1,12 +1,23 @@
+# 👋 Hi, I'm Samia Elkholy
 
-<h1 align="center">Hi 👋, I'm SamiaElkholy </h1>
+## Data Analyst
 
+### 🛠️ Tools I Use:
+- **SQL & MySQL** - Writing queries and analyzing databases
+- **Advanced Excel** - Pivot tables, advanced formulas
+- **Power Query** - Data cleaning and transformation
+- **DAX** - Power BI measures and KPIs
 
+### 📂 Featured Projects:
 
-- 🌱 I’m currently learning **Backend Development & Software Development**
+- [Adidas Sales Analysis - SQL](https://bit.ly/3OcAGsE)
+  > Analyzed sales performance, regional trends, and product categories using advanced SQL queries (JOINs, GROUP BY, Window Functions)
 
-- 💬 Ask me about **Laravel & PHP**
+- [Superstore Sales Analysis - SQL](https://bit.ly/4vBX1kz)
+  > Performed exploratory data analysis (EDA) on 10,000+ orders to identify profit drivers, loss-making segments, and seasonal patterns
 
-- 📫 How to reach me **elkholysamia56@gmail.com**
+- [SQL Practice Hub - Multiple Projects](https://bit.ly/4tuGXyW)
+  > Collection of real-world SQL practice problems covering subqueries, CTEs, aggregations, and database optimization techniques
 
-<h3 align="left">Connect with me:</h3>
+### 📫 Let's Connect:
+[LinkedIn](https://bit.ly/4mk31tF) • [Email](elkholysamia56@gmail.com)
