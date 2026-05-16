@@ -19,7 +19,7 @@
 - [SQL Practice Hub - Multiple Projects](https://bit.ly/4tuGXyW)
   > Collection of real-world SQL practice problems covering subqueries, CTEs, aggregations, and database optimization techniques
   
-- [Restaurant Database Management System - SQL]([https://bit.ly/4tuGXyW](https://github.com/SamiaElkholy/Project_SQL))
+- [Restaurant Database Management System - SQL](https://bit.ly/3ReIv2j)
   > Designed and built a relational restaurant management database using SQL, including customers, restaurants, meals, and orders management. Applied advanced         SQL queries using JOINs, GROUP BY, filtering, aggregate functions, date analysis, and monthly spending reports.
 
 ### 📫 Let's Connect:
